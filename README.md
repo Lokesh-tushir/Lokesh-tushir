@@ -19,10 +19,6 @@
 
 - ⚡ Fun fact **Absolutely! Here's a fun fact for your resume: Fun Fact: I have an uncanny ability to speak two languages fluently: English and Python. While one is used for human communication and the other for programming, mastering both has enabled me to decode the language of data and uncover its hidden stories.**
 
-### Blogs posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lokesh tushir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokesh tushir" height="30" width="40" /></a>
